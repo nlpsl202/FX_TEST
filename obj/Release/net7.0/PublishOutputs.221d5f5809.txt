@@ -1,0 +1,7 @@
+D:\專案SVN\NCC\智慧標準化檢測技術資料庫網站\src\dev\Project\Web\FX_TEST\obj\Release\net7.0\PubTmp\Out\FX_TEST.exe
+D:\專案SVN\NCC\智慧標準化檢測技術資料庫網站\src\dev\Project\Web\FX_TEST\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\專案SVN\NCC\智慧標準化檢測技術資料庫網站\src\dev\Project\Web\FX_TEST\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\專案SVN\NCC\智慧標準化檢測技術資料庫網站\src\dev\Project\Web\FX_TEST\obj\Release\net7.0\PubTmp\Out\FX_TEST.dll
+D:\專案SVN\NCC\智慧標準化檢測技術資料庫網站\src\dev\Project\Web\FX_TEST\obj\Release\net7.0\PubTmp\Out\FX_TEST.deps.json
+D:\專案SVN\NCC\智慧標準化檢測技術資料庫網站\src\dev\Project\Web\FX_TEST\obj\Release\net7.0\PubTmp\Out\FX_TEST.runtimeconfig.json
+D:\專案SVN\NCC\智慧標準化檢測技術資料庫網站\src\dev\Project\Web\FX_TEST\obj\Release\net7.0\PubTmp\Out\FX_TEST.pdb
